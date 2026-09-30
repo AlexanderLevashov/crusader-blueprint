@@ -1,0 +1,4 @@
+LIBRARY shfolder
+EXPORTS
+    SHGetFolderPathA=_SHGetFolderPathA@20 @1
+    SHGetFolderPathW=_SHGetFolderPathW@20 @2

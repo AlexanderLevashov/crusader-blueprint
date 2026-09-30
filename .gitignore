@@ -1,0 +1,23 @@
+# Build artifacts
+*.obj
+*.lib
+*.exp
+*.dll
+*.pdb
+*.ilk
+*.idb
+
+# Logs and text dumps
+*.log
+*.txt
+blueprint.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE & temporary files
+.vs/
+.vscode/
+*.user
+*.suo
